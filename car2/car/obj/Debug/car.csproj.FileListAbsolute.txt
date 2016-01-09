@@ -13,3 +13,9 @@ D:\DiskYa\ТПУ\Дисертация\6. Работа со студентами\
 D:\Учеба\Ваня\Новая папка\Сегментация\Новая папка\car\car\bin\Debug\car.exe.config
 D:\Учеба\Ваня\Новая папка\Сегментация\Новая папка\car\car\obj\Debug\car.exe
 D:\Учеба\Ваня\Новая папка\Сегментация\Новая папка\car\car\obj\Debug\car.pdb
+D:\Учеба\Ваня\Новая папка\Car\car2\car\bin\Debug\car.exe.config
+D:\Учеба\Ваня\Новая папка\Car\car2\car\obj\Debug\car.exe
+D:\Учеба\Ваня\Новая папка\Car\car2\car\obj\Debug\car.pdb
+D:\Учеба\Ваня\Новая папка\Car\car2\car\bin\Debug\car.exe
+D:\Учеба\Ваня\Новая папка\Car\car2\car\bin\Debug\car.pdb
+D:\Учеба\Ваня\Новая папка\Car\car2\car\obj\Debug\car.csprojResolveAssemblyReference.cache
