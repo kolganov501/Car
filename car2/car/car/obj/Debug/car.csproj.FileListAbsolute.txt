@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\Сегментация\car\car\bin\Debug\car.exe.config
+C:\Users\123\Desktop\Сегментация\car\car\bin\Debug\car.exe
+C:\Users\123\Desktop\Сегментация\car\car\bin\Debug\car.pdb
+C:\Users\123\Desktop\Сегментация\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Сегментация\car\car\obj\Debug\car.exe
+C:\Users\123\Desktop\Сегментация\car\car\obj\Debug\car.pdb
